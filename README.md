@@ -1,5 +1,5 @@
 name: Inemesit Dominic
-slack name: Dominic.A
+slack name: Dominic
 project description: Automated Web Deployment with GitHub Actions and NGINX
 Project Overview
 This DevOps project demonstrates how to automate the deployment of a custom webpage using GitHub Actions and NGINX.
