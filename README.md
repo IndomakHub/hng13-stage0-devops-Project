@@ -12,10 +12,8 @@ It showcases key DevOps principles including CI/CD, infrastructure-as-code, and 
 
  Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/IndomakHub/hng13-stage0-devops-Project.git
 cd your-repo-name
-
-
 2. Configure NGINX
 Update nginx/default.conf with your desired server settings. This file will be used to configure NGINX during deployment.
 3. Customize Your Webpage
